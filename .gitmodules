@@ -1,0 +1,6 @@
+[submodule "coffee-service"]
+	path = coffee-service
+	url = https://github.com/pzalep1/coffee-service.git
+[submodule "curricular-client"]
+	path = curricular-client
+	url = https://github.com/pzalep1/curricular-client.git

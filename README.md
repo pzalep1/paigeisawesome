@@ -13,6 +13,9 @@ There are three elements to this environment:
 Run the following command from the root of this project directory:
 
 ```sh
+$ cd cosc617
+$ git submodule init
+$ git submodule update
 $ docker-compose up
 ```
 
